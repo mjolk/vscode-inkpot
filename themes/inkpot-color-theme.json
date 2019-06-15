@@ -272,7 +272,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#01C90E"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#01C90E"
 			}
 		},
 		{
